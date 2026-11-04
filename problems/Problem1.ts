@@ -9,3 +9,5 @@ export function concatNumbers(num1: number, num2: number): string {
     // TODO: Implement logic to concatenate the numbers as strings
     return ""; // Placeholder return statement
 }
+
+//export default concatNumbers; // Uncomment this line when done writing the function
